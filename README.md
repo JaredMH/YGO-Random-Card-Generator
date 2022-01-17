@@ -1,4 +1,4 @@
-# YGO-Random-Card-Generator
+# YGO-Random-Card-List-Generator
 Generates a list of random Yugioh cards.
 
 Run on the command line, and enter the number of cards to pick when prompted.
