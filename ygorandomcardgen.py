@@ -69,7 +69,7 @@ def main():
     
     # Build a .ydk file for EDOPro or YGOPRODeck.
     ydk = maindeck + '\n' + extradeck + '\n' + '!side\n'
-    with open('Allowedcards.ydk', 'w') as file:
+    with open('CardList.ydk', 'w') as file:
         file.write(ydk)
 
 if __name__ == "__main__":
